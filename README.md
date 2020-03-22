@@ -5,7 +5,7 @@ ___
 * найти неоптимальные места:
     * дублирование ресурсов
     
-        Различные скрипты, изображенияё
+        Различные скрипты, изображения
         ![](./screenshots/network/duplication/screenshot_1.png)
         
         ![](./screenshots/network/duplication/screenshot_2.png)
